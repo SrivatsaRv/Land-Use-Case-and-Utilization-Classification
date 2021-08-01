@@ -22,7 +22,7 @@ Each multispectral image consists of 13 different color bands that represent dif
 
 ### Project Plan
 This project includes notebooks for all stages in the process: 
-1. [Data preparation](https://github.com/sophy26/land-use-classification/0_build_rgb_dataset.ipynb)
+1. [Data preparation](https://github.com/SrivatsaRv/Land-Use-Case-and-Utilization-Classification/blob/main/0_build_rgb_dataset.ipynb)
 2. [Exploratory data analysis](https://github.com/sophy26/land-use-classification/1_exploratory_data_analysis.ipynb)
 3. [CNN with model tuning](https://github.com/sophy26/land-use-classification/3_cnn_tuned.ipynb)
 

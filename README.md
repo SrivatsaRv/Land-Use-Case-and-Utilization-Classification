@@ -23,7 +23,7 @@ Each multispectral image consists of 13 different color bands that represent dif
 ### Project Plan
 This project includes notebooks for all stages in the process: 
 1. [Data preparation](https://github.com/SrivatsaRv/Land-Use-Case-and-Utilization-Classification/blob/main/0_build_rgb_dataset.ipynb)
-2. [Exploratory data analysis](https://github.com/sophy26/land-use-classification/1_exploratory_data_analysis.ipynb)
-3. [CNN with model tuning](https://github.com/sophy26/land-use-classification/3_cnn_tuned.ipynb)
+2. [Exploratory data analysis](https://github.com/SrivatsaRv/Land-Use-Case-and-Utilization-Classification/blob/main/1_exploratory_data_analysis.ipynb)
+3. [CNN with model tuning](https://github.com/SrivatsaRv/Land-Use-Case-and-Utilization-Classification/blob/main/3_cnn_tuned.ipynb)
 
 Using keras as the main machine learning library for this project, I crafted a RGB jpeg dataset from thousands of thirteen-band tif files, and used transfer learning, data augmentation, and regularization to build three different models with increasing performance.
